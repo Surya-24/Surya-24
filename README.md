@@ -1,37 +1,87 @@
+<!-- The cards are built from scripts/content.mjs. Edit that file and run: node scripts/build.mjs -->
 
-<h1 align="center">Hi 👋, I'm Sai Surya</h1>
-<p align="center"> <img height="400" width="800" src="https://www.cogitotech.com/assets/uploads/media-uploader/benefits-of-hiring-cogitos-machine-learning-engineers1625821347.gif" alt="Surya-24" /> </p>
-
-<h3 align="center">Ml Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=surya-24&label=Profile%20views&color=0e75b6&style=flat" alt="surya-24" /> </p>
-
-
-- 🔭 I’m currently working on **Green Algeria Project**
-
-- 🌱 I’m currently learning **Tensorflow and Deep Learning Models**
-
-- 👯 I’m looking to collaborate on **Machine Learning Related Project**
-
-- 💬 Ask me about **ML Models, Python related Queries**
-
-- 📫 How to reach me **saisurya24112001@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1izSgJPFcdDhiroEpS5N_mmsJI1I80VMl/view?usp=sharing](https://drive.google.com/file/d/1izSgJPFcdDhiroEpS5N_mmsJI1I80VMl/view?usp=sharing)
-
-- ⚡ Fun fact **I am Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mada-sai-surya-00a03b1b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mada-sai-surya-00a03b1b0" height="30" width="40" /></a>
-<a href="https://instagram.com/sai_surya_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sai_surya_24" height="30" width="40" /></a>
+<p align="center">
+  <picture>
+    <source media="(max-width: 700px)" srcset="assets/header-mobile.svg">
+    <img src="assets/header.svg" width="836" alt="Sai Surya Mada. AI engineer and M.Sc. AI student at THWS, Germany. I build LLM systems that answer from real sources, keep personal data out of the prompt, and get tested before anyone relies on them.">
+  </picture>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mada-sai-surya"><img src="assets/link-linkedin.svg" width="168" alt="LinkedIn"></a>
+  <a href="mailto:saisuryamada@gmail.com"><img src="assets/link-email.svg" width="168" alt="Email"></a>
+  <a href="https://www.kaggle.com/competitions/google-tunix-hackathon/writeups/new-writeup-1767560834117"><img src="assets/link-kaggle.svg" width="168" alt="Kaggle write-up"></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surya-24&show_icons=true&locale=en&layout=compact" alt="surya-24" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surya-24&show_icons=true&locale=en" alt="surya-24" /></p>
+<p align="center">
+  <picture>
+    <source media="(max-width: 700px)" srcset="assets/sec-now-mobile.svg">
+    <img src="assets/sec-now.svg" width="836" alt="01. Right now">
+  </picture>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surya-24&" alt="surya-24" /></p>
+<p align="center">
+  <img src="assets/role-1.svg" width="416" alt="AI Engineer at AIOLIA, an EU-funded research project at THWS, since October 2026. Self-hosted chatbot teaching AI ethics and the EU AI Act, with hybrid search and guardrails.">
+  <img src="assets/role-2.svg" width="416" alt="AI Developer at Bearings Research Lab and QPT Messtechnik GmbH, since November 2025. Quote preparation cut from 20 to 30 minutes to under one minute.">
+  <img src="assets/role-3.svg" width="416" alt="Robotics and RL research assistant, Humanoid Robotics Lab, THWS, March to September 2026. Taught a Booster T1 humanoid to walk with PPO in NVIDIA Isaac.">
+  <img src="assets/role-4.svg" width="416" alt="Machine Learning Engineer at HCLTech, Noida, November 2023 to November 2024.">
+</p>
+
+<br>
+
+<p align="center">
+  <picture>
+    <source media="(max-width: 700px)" srcset="assets/sec-work-mobile.svg">
+    <img src="assets/sec-work.svg" width="836" alt="02. Selected work, 2025 to 2026">
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Surya-24/Automated-Analytics"><img src="assets/project-1.svg" width="416" alt="Agentic Analytics Platform: a LangGraph multi-agent system for SQL and ETL with self-healing queries and a Docker sandbox."></a>
+  <a href="https://github.com/Surya-24/Werkstaaten-main"><img src="assets/project-2.svg" width="416" alt="MAUS-Assistent: chat-based assessment with RAG and pseudonymisation that exports an integration plan as a PDF."></a>
+  <a href="https://github.com/Surya-24/DL-Repo"><img src="assets/project-3.svg" width="416" alt="Medical Image Benchmark: four CNNs across five medical datasets in one config-driven PyTorch pipeline."></a>
+  <a href="https://www.kaggle.com/competitions/google-tunix-hackathon/writeups/new-writeup-1767560834117"><img src="assets/project-4.svg" width="416" alt="Gemma 3 tuned with GRPO and LoRA on a TPU for Google's Tunix hackathon."></a>
+  <a href="https://github.com/Surya-24/NLP"><img src="assets/project-5.svg" width="416" alt="MigrantNav: a fully local legal-aid assistant for EU asylum law using a Neo4j knowledge graph."></a>
+  <a href="https://github.com/Surya-24/Explainable-AI-for-Pneumonia-Detection-using-Chest-X-Ray-Images"><img src="assets/project-6.svg" width="416" alt="Explainable Pneumonia Detection: DenseNet-121 with Grad-CAM and LIME, 89.4% accuracy."></a>
+  <a href="https://github.com/Surya-24/Waterfowl-Detection-----Object-Detection-on-Thermal-UAV-Imagery"><img src="assets/project-7.svg" width="416" alt="Waterfowl from the Air: Faster R-CNN on thermal drone imagery, F1 0.904."></a>
+  <a href="https://github.com/riyazbiju/WEATHER-AND-PILOTS"><img src="assets/project-8.svg" width="416" alt="SKYBRIEF: a Prefect pipeline over 231 weather sources with Gaussian process and Neural ODE forecasting."></a>
+</p>
+
+<p align="center">
+  <sub>
+    Also from 2025: <a href="https://github.com/Surya-24/Implementing-and-Analyzing--VAE-on-CelebA">β-VAE on CelebA</a> ·
+    <a href="https://github.com/Surya-24/Sensor-Fusion---Particle-Filter">multi-object particle filter</a> ·
+    <a href="https://github.com/Surya-24/Mastering-Blackjack-with-Reinforcement-Learning">blackjack with Q-learning and SARSA</a>
+  </sub>
+</p>
+
+<br>
+
+<p align="center">
+  <picture>
+    <source media="(max-width: 700px)" srcset="assets/sec-how-mobile.svg">
+    <img src="assets/sec-how.svg" width="836" alt="03. How I build LLM systems">
+  </picture>
+  <picture>
+    <source media="(max-width: 700px)" srcset="assets/pipeline-mobile.svg">
+    <img src="assets/pipeline.svg" width="836" alt="Five steps: guard the input, route with a LangGraph agent, retrieve or act with MCP tools, generate with a self-hosted model, then check grounding and citations.">
+  </picture>
+</p>
+
+<br>
+
+<p align="center">
+  <picture>
+    <source media="(max-width: 700px)" srcset="assets/sec-kit-mobile.svg">
+    <img src="assets/sec-kit.svg" width="836" alt="04. Toolkit">
+  </picture>
+</p>
+
+<p align="center">
+  <img src="assets/toolkit-1.svg" width="416" alt="Language models and agents: LangGraph, LangChain, MCP, vLLM, Ollama, Hugging Face, LoRA and GRPO, NeMo Guardrails, Presidio, LLM-as-a-Judge. Retrieval and data: Qdrant, Neo4j, FAISS, ChromaDB, PostgreSQL, Docling, Prefect, Pandas.">
+  <img src="assets/toolkit-2.svg" width="416" alt="Machine learning: PyTorch, scikit-learn, OpenCV, NVIDIA Isaac, Whisper, Grad-CAM and LIME, Gaussian processes. Shipping: Python, Java, SQL, FastAPI, Streamlit, React, Node.js, Docker, Jenkins, GitHub Actions, pytest, Linux.">
+  <img src="assets/education.svg" width="416" alt="Education: M.Sc. Artificial Intelligence at THWS (2025 to now); Bachelor's in Artificial Intelligence at VIT Bhopal (2019 to 2024); Google Data Analytics Certificate. Speaks English and German (B1).">
+  <a href="mailto:saisuryamada@gmail.com"><img src="assets/contact.svg" width="416" alt="Say hello: saisuryamada@gmail.com"></a>
+</p>
